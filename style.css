@@ -84,6 +84,12 @@ li{
     font-family: 'Catamaran', sans-serif;
 }
 
+.adobe{
+  color: #1B98E0;
+  padding-left: 20px;
+  list-style: none;
+}
+
 footer{
     background-color: yellow;
     padding-top: 10px;
