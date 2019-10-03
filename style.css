@@ -109,3 +109,9 @@ a{
     width:62%;
     float: left;
 }
+
+.column-narrow{
+    width:30%;
+    float: left;
+    min-height: 350px;
+}
